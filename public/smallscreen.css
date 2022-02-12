@@ -1,0 +1,37 @@
+
+/* ################################################################################ */
+/* Small Screen */
+
+.App-Incom {
+    width: 90%;
+}
+
+.App-Selector {
+    margin-top: 120px;
+    scroll-margin-top: 120px;
+}
+
+.App-Team {
+    scroll-margin-top: 157px;
+}
+
+.App-mainTitle {
+    display: none;
+}
+
+.Header-Panel {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Header-logo {
+    display: none;
+}
+
+.Header-Btn {
+    width: 150px;
+    margin: 5px 5px;
+    padding: 5px 0px;
+}
+
+/* ################################################################################ */
